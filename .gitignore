@@ -67,3 +67,11 @@ upskill/*.md
 
 # Agent usage logs
 .agents/
+
+# Personal source documents
+documents/*.pdf
+documents/*.docx
+documents/*.doc
+documents/*.png
+documents/*.jpg
+documents/*.jpeg
